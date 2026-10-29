@@ -1,0 +1,12 @@
+{
+  "name": "playwright-residential-proxy-examples",
+  "version": "1.0.0",
+  "description": "Practical Playwright HTTP proxy examples in Python and Node.js",
+  "license": "MIT",
+  "scripts": {
+    "check-proxy": "node nodejs/check-proxy.js"
+  },
+  "dependencies": {
+    "playwright": "^1.52.0"
+  }
+}
